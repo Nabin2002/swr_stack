@@ -5,8 +5,8 @@ A full-stack CRUD application built with React, TypeScript, Node.js, Express, Mo
 
 
 ## 🌐 Live Demo
-- Frontend: https://your-app.vercel.app
-- Backend API: https://your-api.onrender.com
+- Live Demo: https://swr-stack.vercel.app/
+- GitHub link: https://github.com/Nabin2002/SWRStack.git
 ## 📸 Screenshots
 
 ### Fetching Data
